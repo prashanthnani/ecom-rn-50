@@ -1,0 +1,38 @@
+{
+  "name": "ecom50",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.3.8",
+    "react": "16.2.0",
+    "react-native": "^0.52.2",
+    "react-native-code-push": "^5.2.1",
+    "react-native-easy-grid": "^0.1.17",
+    "react-native-google-signin": "^0.12.0",
+    "react-native-maps": "^0.19.0",
+    "react-native-modalbox": "^1.4.2",
+    "react-native-orientation": "^3.1.3",
+    "react-native-responsive-image": "^2.2.1",
+    "react-native-simple-store": "^1.3.0",
+    "react-native-svg": "^6.1.1",
+    "react-native-usit-ui": "0.0.8",
+    "react-native-vector-icons": "^4.5.0",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.1.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.1.4",
+    "react-test-renderer": "16.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

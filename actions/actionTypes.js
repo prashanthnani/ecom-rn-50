@@ -1,0 +1,3 @@
+export const LOAD_PRODUCTS  = 'LOAD_PRODUCTS';
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const DELETE_PRODUCTS = 'DELETE_PRODUCTS';

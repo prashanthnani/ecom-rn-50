@@ -1,0 +1,60 @@
+ {
+  "Staples": [
+    {"Dals & Pulses" : ["All","Toor Dal","Urad Dal","Moong Dal","Chana Dal","Other Pulses","Soya Chunks"]},
+    {"Ghee & Oils" : ["All","Ghee","Sunflower Oil","Rice Bran","Olive Oil","Groundnut Oil","Mustard Oil","Other Oils"]},
+    {"Atta & FLours" : ["All","Wheat","Rava & Sooji","Rice Flour","Maida","Besan","Other Flours","Grains"]},
+    {"Massalas & Spices" : ["All","Whole Spices","Powered Spices","Ready Masalas","Cooking Pastes","Herbs & Seasonings"]},
+    {"Rice & Rice Products" : ["All","Basmati Rice","Sona Masoori Rice","Other Rice Varieties","Poha","Puffed Rice"]},
+    {"Dry Friuts, Nuts & Seeds" : ["All","Cashew Nuts","Almonds","Dates & Raisins","Dried Fruits","Edible Seeds","Other Nuts"]},
+    {"Sugar, Jaggery & Salt" : ["All","Salt","Sugar","Sugar Free","Jaggery"]}
+  ],
+  "Snacks & Beverages" : [
+    {"Biscuits" : ["All","Cookies","Cream Biscuits","Marie & Digestive","Milk & Clucose","Salted","Cheeslets","Wafers & Rusk"]},
+    {"Chips, Namkeen & Snacks" : ["All","Namkeen","Chips","Popcorn, Papad & Fryums","Snacky Nuts"]},
+    {"Tea" : ["All","Tea","Tea Bags","Green Tea"]},
+    {"Coffee" : ["All","Roast & Ground","Instant Coffee"]},
+    {"Juices" : ["All","Orange Juice","Apple Juice","Other Juices"]},
+    {"Health Drink Mix" : ["All","Health Drink Mix"]},
+    {"Soft Drinks" : ["All","Aerated Drinks","Fruit Drinks","Soda","Energy & Sports Drinks"]},
+    {"Squash & Syrups" : ["All","Squash","Syrups","Fruit Crush"]}
+  ],
+  "Packaged Food": [
+    {"Breakfast Cereals" : ["All","Flakes","Muesli","Oats","Cereal Bars"]},
+    {"Noodles & Pasta" : ["All","Noodles","Pasta","Vermicelli"]},
+    {"Ketchups & Spreads" : ["All","Ketchups","Dips & Spreads","Dressing Sauce"]},
+    {"Chocolates & Sweets" : ["All","Chocolates","Sweets & Mithai","Candy & Gums","Cake"]},
+    {"Jams & Honey" : ["All","Jams","Honey"]},
+    {"Pickles & Chutney" : ["All","Pickles","Chutney"]},
+    {"Ready To Cook" : ["All","Soups","Ready Mixes","Ready Meals"]},
+    {"Cooking Sauces & Vinegar" : ["All","Cooking Sauce","Vinegar"]},
+    {"Baking" : ["All","Baking Ingredients","Ready Baking Mixes","Baking Decoratives"]}
+  ],
+  "Personal & Baby Care" : [
+    {"Soaps & Body Wash" : ["All","Soaps","Body Wash","Face Wash","Hand Wash","Hand Sanitizer"]},
+    {"Hair Care" : ["All","Shampo","Conditioner","Hair Oil","Hair color","Hair Serum","Styling Products"]},
+    {"Oral Care" : ["All","Toothpaste","Toothbrush","Mouthwash","Tongue Cleaners","Floss"]},
+    {"Does, Perfumes & Talc" : ["All","Women's Deo","Perfumes","Talc"]},
+    {"Creams, Lotions, Skin Care" : ["All","Creams","Body Lotion","Hair Removal","Sunscreen","Lip Care","Toner","Body Oil","Face Packs & Scrubs","Facial Tissues","Foot Care"]},
+    {"Kajal & Makeup" : ["All","Kajal"]},
+    {"Sanitary Needs" : ["All","Sanitary Pads","Tampons","Intimate Care"]},
+    {"Wellness & Common Pharma" : ["All","Contraceptives","Cotton & Bandages","Chyawanprash","Digestives","Antiseptic","Pain Relievers"]},
+    {"Shaving Needs" : ["All","Blades & Razor","Creams & Foam","After Shave","Shaving Brush"]},
+    {"Diapers & Wipes" : ["All","Diapers","Wipes"]},
+    {"Baby Foods" : ["All","Baby Cereal","Infant Formula"]},
+    {"Baby Bath & Skin Care" : ["All","Baby Soaps","Baby Shampo","Baby Oil","Baby Cream","Baby Powder"]}
+  ],
+  "Household Care": [
+    {"Detergents & Laundry" : ["All","Detergents","Fabric Care","Washing Bars"]},
+    {"Utensil Cleaners" : ["All","Dishwash Liquid","Dishwash Bar","Scrub Pads"]},
+    {"Floor & Other Cleaners" : ["All","Toilet Cleaners","Floor Cleaners","Kitchen Cleaners","Drain Cleaners","Glass Cleaners"]},
+    {"Repellants & Fresheners" : ["All","Mosquito Repellants","Air Fresheners","Insecticides"]},
+    {"Paper & Disposables" : ["All","Aluminium Foils","Paper Napkins","Garbage Bags","Toilet Paper","Disposable Plates & Utensils","Kitchen Roll"]},
+    {"Basic Electricals" : ["All","Bulbs","Batteries"]},
+    {"Pooja Needs" : ["All","Agarbatti & Dhoop"]}
+  ],
+  "Dairy & Eggs" : [
+    {"Dairy" : ["All","Milk","Cheese","Curd & Yogurts","Butter & Speeds", "Soya Milk", "Buttermilk & Lassi", "Milk Powder"]},
+    {"Eggs" : ["All","Egg"]}
+  ]
+
+}
